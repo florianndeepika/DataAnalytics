@@ -1,2 +1,2 @@
 # DataAnalytics
-Data Mining and Text Mining Projects
+Data Mining and Text Mining Projects.
